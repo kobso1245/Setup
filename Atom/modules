@@ -1,0 +1,10 @@
+total 36
+drwxrwxr-x  8 kaloyan kaloyan 4096 Sep 22 12:30 .
+drwxrwxr-x  9 kaloyan kaloyan 4096 Sep 22 12:25 ..
+drwxrwxr-x 12 kaloyan kaloyan 4096 Sep 22 12:25 atom-beautify
+drwxrwxr-x  5 kaloyan kaloyan 4096 Sep 22 12:25 linter-flake8
+drwxrwxr-x  7 kaloyan kaloyan 4096 Sep 22 12:25 project-manager
+drwxrwxr-x  7 kaloyan kaloyan 4096 Sep 22 12:25 linter
+-rw-rw-r--  1 kaloyan kaloyan   60 Sep 22 12:25 README.md
+drwxrwxr-x  3 kaloyan kaloyan 4096 Sep 22 12:25 slack-ui
+drwxrwxr-x  4 kaloyan kaloyan 4096 Sep 22 12:25 unity-ui
